@@ -13,3 +13,4 @@ Personal Cybersecurity Resources
 | [breachdetective.com](https://breachdetective.com/) | A data breach search engine that allows users to check if their personal information (passwords, phone numbers, etc.) has been exposed in public data leaks, providing details on the breach and leaked data. |
 |[dashboard.serversmtp.com](https://dashboard.serversmtp.com) | SMTP server for spoofable use |
 |[Swit-scanner](https://github.com/RedSecurity/swit-scanner) | Army Swis Knife Tool for Web-Scanning |
+|[Scylla OSINT](https://github.com/cybersecurity-team/Scylla) |A powerful open-source tool for gathering and analyzing open-source intelligence (OSINT) data. Very good for first and last names  |
