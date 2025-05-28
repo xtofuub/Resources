@@ -15,4 +15,5 @@ Personal Cybersecurity Resources
 |[Swit-scanner](https://github.com/RedSecurity/swit-scanner) | Army Swis Knife Tool for Web-Scanning |
 |[Scylla OSINT](https://github.com/cybersecurity-team/Scylla) |A powerful open-source tool for gathering and analyzing open-source intelligence (OSINT) data. |
 | [Cloud Shell](https://shell.cloud.google.com/?) | A secure, browser-based terminal to manage cloud resources, run scripts, and test tools without local setup — useful for fast and safe cybersecurity tasks. |
+| [Github Email Finder](https://braingainsoft.com) | A tool to quickly get github users email address. |
 
