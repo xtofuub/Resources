@@ -12,3 +12,4 @@ Personal Cybersecurity Resources
 | [osintleak.com](https://osintleak.com/)  | An Open-Source Intelligence (OSINT) platform focused on searching a vast database of leaked content and credentials, aiding in the discovery of data exposures using various identifiers. |
 | [breachdetective.com](https://breachdetective.com/) | A data breach search engine that allows users to check if their personal information (passwords, phone numbers, etc.) has been exposed in public data leaks, providing details on the breach and leaked data. |
 |[dashboard.serversmtp.com](https://dashboard.serversmtp.com) | SMTP server for spoofable use |
+|[Swit-scanner]([https://dashboard.serversmtp.com](https://github.com/RedSecurity/swit-scanner)) | Army Swis Knife Tool for Web-Scanning |
