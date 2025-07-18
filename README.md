@@ -23,7 +23,7 @@ A curated list of resources for cybersecurity, OSINT, malware analysis, vulnerab
 | [osintleak.com](https://osintleak.com/)                      | Search engine for leaked credentials and data using various identifiers. |
 | [breachdetective.com](https://breachdetective.com/)          | Search if emails, phones, or passwords appear in public breaches.        |
 | [Scylla OSINT](https://github.com/cybersecurity-team/Scylla) | Powerful tool for gathering and analyzing OSINT data.                    |
-| [Oathnet OSINT](https://oathnet.org/)                        | Lightweight OSINT data collection tool.                                  |
+| [Oathnet OSINT](https://oathnet.org/)                        | Really good OSINT data collection tool.                                  |
 | [Skymem.info](https://www.skymem.info/)                      | Tool to extract publicly available emails from websites.                 |
 | [Github Email Finder](https://braingainsoft.com)             | Extract GitHub users' email addresses (where available).                 |
 
