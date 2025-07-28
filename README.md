@@ -1,4 +1,7 @@
-# Personally used resources
+---
+
+# 🕵️Personally Used Resources
+
 ---
 
 # 🔍 Cybersecurity & OSINT Tools
@@ -54,4 +57,14 @@ A curated list of resources for cybersecurity, OSINT, malware analysis, vulnerab
 | [Cloud Shell](https://shell.cloud.google.com/?) | Browser-based terminal for managing cloud resources and testing tools. |
 
 ---
+
+## 🚨 DDoS Testing & Stresser Tools
+
+| Name                                                        | Description                                                               |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [FluxStress](https://fluxstress.su/dash/stress)             | Simple stresser panel for testing HTTP/Layer 7 servers (Free). |
+| [DDoSForHire Free List](https://www.ddosforhi.re/list/free) | Directory of free stresser services; useful for comparison or research.   |
+
+---
+
 
