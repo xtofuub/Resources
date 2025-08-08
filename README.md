@@ -1,6 +1,6 @@
 ---
 
-# 🕵️Personally Used Resources
+# 🕵️ Personally Used Resources
 
 ---
 
@@ -26,8 +26,8 @@ A curated list of resources for cybersecurity, OSINT, malware analysis, vulnerab
 | [osintleak.com](https://osintleak.com/)                      | Search engine for leaked credentials and data using various identifiers. |
 | [breachdetective.com](https://breachdetective.com/)          | Search if emails, phones, or passwords appear in public breaches.        |
 | [Scylla OSINT](https://github.com/cybersecurity-team/Scylla) | Powerful tool for gathering and analyzing OSINT data.                    |
-| [Oathnet OSINT](https://oathnet.org/)                        | Really good OSINT data collection tool.                                  |
-| [Skymem.info](https://www.skymem.info/)                      | Tool to extract publicly available emails from websites.                 |
+| [Oathnet OSINT](https://oathnet.org/)                        | OSINT data collection tool.                                              |
+| [Skymem.info](https://www.skymem.info/)                      | Extract publicly available emails from websites.                         |
 | [Github Email Finder](https://braingainsoft.com)             | Extract GitHub users' email addresses (where available).                 |
 
 ---
@@ -38,6 +38,15 @@ A curated list of resources for cybersecurity, OSINT, malware analysis, vulnerab
 | ------------------------------------------- | ------------------------------------------------------------------------- |
 | [uncoverit.org](https://www.uncoverit.org/) | Static malware config extractor and analysis tool.                        |
 | [tria.ge](https://tria.ge/)                 | Online sandbox for dynamic/static malware analysis with detailed reports. |
+
+---
+
+## 🎭 Social Engineering Tools
+
+| Name                                                       | Description                                                              |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [Facad1ng](https://github.com/spyboy-productions/Facad1ng) | Masks real links behind fake-looking ones for phishing tests or privacy. |
+| [Zphisher](https://github.com/htr-tech/zphisher)           | Automated phishing tool with 30+ templates and link masking.             |
 
 ---
 
@@ -60,11 +69,10 @@ A curated list of resources for cybersecurity, OSINT, malware analysis, vulnerab
 
 ## 🚨 DDoS Testing & Stresser Tools
 
-| Name                                                        | Description                                                               |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [FluxStress](https://fluxstress.su/dash/stress)             | Simple stresser panel for testing HTTP/Layer 7 servers (Free). |
-| [DDoSForHire Free List](https://www.ddosforhi.re/list/free) | Directory of free stresser services; useful for comparison or research.   |
+| Name                                                        | Description                                                             |
+| ----------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [FluxStress](https://fluxstress.su/dash/stress)             | Simple stresser panel for testing HTTP/Layer 7 servers (Free).          |
+| [DDoSForHire Free List](https://www.ddosforhi.re/list/free) | Directory of free stresser services; useful for comparison or research. |
 
 ---
-
 
