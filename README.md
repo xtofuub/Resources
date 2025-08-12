@@ -33,7 +33,7 @@ A curated list of resources for cybersecurity, OSINT, malware analysis, vulnerab
 # Dark Web OSINT Tools
 | Name                                                         | Description                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| [dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)| is a collection of tools and resources for performing OSINT (Open Source Intelligence) on the dark web, helping cybersecurity professionals gather and analyze information from hidden networks like Tor and I2P. |
+| [dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)| is a collection of tools and resources for performing OSINT on the dark web |
 
 ---
 
