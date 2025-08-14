@@ -29,6 +29,7 @@ A curated list of resources for cybersecurity, OSINT, malware analysis, vulnerab
 | [Oathnet OSINT](https://oathnet.org/)                        | OSINT data collection tool.                                              |
 | [Skymem.info](https://www.skymem.info/)                      | Extract publicly available emails from websites.                         |
 | [Github Email Finder](https://braingainsoft.com)             | Extract GitHub users' email addresses (where available).                 |
+| [OSINT rock](https://osint.rocks/)                           | A collection of OSINT tools in one site                                  |
 
 # Dark Web OSINT Tools
 | Name                                                         | Description                                                              |
