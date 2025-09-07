@@ -62,7 +62,8 @@ A curated list of resources for cybersecurity, OSINT, malware analysis, vulnerab
 | ------------------------------------------------------------ | ------------------------------------------------------------- |
 | [Swit-scanner](https://github.com/RedSecurity/swit-scanner)  | Swiss Army knife tool for web scanning and reconnaissance.    |
 | [dashboard.serversmtp.com](https://dashboard.serversmtp.com) | SMTP testing server; potentially spoofable (use responsibly). |
-| [https://caniphish.com/](https://caniphish.com/)             | A great tool to identify if a website DMARC, SPF and MX records are not properly set |
+| [caniphish](https://caniphish.com/)             | A great tool to identify if a website DMARC, SPF and MX records are not properly set |
+|[subdomainfinder.c99.nl](https://subdomainfinder.c99.nl/)|A great tool to quickly identify subdomains|
 
 ---
 
