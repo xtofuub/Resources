@@ -30,6 +30,7 @@ A curated list of resources for cybersecurity, OSINT, malware analysis, vulnerab
 | [Skymem.info](https://www.skymem.info/)                      | Extract publicly available emails from websites.                         |
 | [Github Email Finder](https://braingainsoft.com)             | Extract GitHub users' email addresses (where available).                 |
 | [OSINT rock](https://osint.rocks/)                           | A collection of OSINT tools in one site                                  |
+|[Number OSINT](https://whatsapp.checkleaked.cc/)              | OSINT tool for phone numbers                                             |
 
 # Dark Web OSINT Tools
 | Name                                                         | Description                                                              |
